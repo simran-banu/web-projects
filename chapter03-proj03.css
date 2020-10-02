@@ -1,0 +1,50 @@
+body{
+    background-image:url(images/rose.jpg);
+     background-repeat: no-repeat;
+      background-size: 50% 100%;
+    }
+   
+    .text{
+    margin:50px;
+    padding:5px;
+    border: 2px solid black;
+    width:35%;
+    background-color:black;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    opacity:0.5;
+    }
+    .info{
+    border: 2px solid black;
+    width:40%;
+     margin:50px;
+    }
+    .info h3{
+        margin:0px;
+        background-color:rgba(138, 119, 119, 0.685);
+        color:black;
+        padding:10px;
+         }
+         
+     .info p{
+     
+        width:60%;
+        margin-left:10px;
+        color:black;
+        }
+     .info strong{
+    margin:50px;
+    padding:5px;
+    border: 2px solid black;
+    width:35%;
+    background-color:black;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    opacity:0.5;
+    }
+    
+     .info section{
+     background-color:lightgrey;
+     margin-bottom:0px;
+     padding:1px;
+     }

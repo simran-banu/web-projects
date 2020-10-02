@@ -1,0 +1,114 @@
+.nav{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    background-color:rgb(128, 62, 62);
+    }
+.nav li{
+    float:right;
+
+    }
+.nav li a{
+    display:block;
+    color:rgb(39, 240, 240);
+    padding:5px;
+    }
+#myid{
+    margin:0px;
+    background-color:rgba(36, 94, 89, 0.932);
+    color:white;
+    text-align:left;
+    font-size:30px;
+    }
+.menu{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    background-color:rgb(36, 44, 150);
+    }
+.menu li{
+    float:left;
+    }
+.menu li a{
+    display:block;
+    color:rgb(84, 195, 199);
+    padding:5px;
+    }
+.pic{
+    margin-left:50%;
+    font-size:14px;
+    }
+.box{
+    border: 2px solid black;
+    width:70%;
+    margin-left:15%;
+    }
+.box h3{
+    padding:3px;
+    margin:0px;
+    background-color:rgb(206, 31, 31);
+    color:white;
+    }
+.box p{
+    margin:8px;
+    }
+.box button{
+    background-color:white;
+    color:cadetblue;
+    }
+.box section {
+    background-color:rgb(219, 49, 49);
+    padding:2px;
+    }
+.phone{
+     margin:15px;
+    border: 2px solid black;
+    width:70%;
+    margin-left:15%;
+    }
+.phone h3{
+    padding:3px;
+    margin:0px;
+    background-color:rgb(57, 116, 224);
+    color:white;
+    }
+.phone p{
+    margin:8px;
+    }
+.phone button{
+    background-color:white;
+    color:cadetblue;
+    }
+.phone section {
+    background-color:rgb(42, 86, 207);
+    padding:2px;
+    } 
+.sales{
+     margin:15px;
+    border: 2px solid black;
+    width:70%;
+    margin-left:15%;
+    }
+.sales h3{
+    padding:3px;
+    margin:0px;
+    background-color:rgb(148, 34, 194);
+    color:white;
+    }
+.copy{
+    border: 2px solid rgba(27, 0, 0, 0.897);
+    width:70%;
+    margin-left:15%;
+    }
+.copy footer {
+    background-color:rgb(47, 158, 65);
+    padding:2px;
+    }
+.copy  a{
+    color:aqua;
+    }
+.copy p{
+    color:white;
+    }
